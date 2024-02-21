@@ -22,6 +22,9 @@ code --install-extension esbenp.prettier-vscode
 ##code --install-extension rvest.vs-code-prettier-eslint
 code --install-extension wallabyjs.console-ninja
 
+## Umi
+code --install-extension litiany4.umijs-plugin-model
+
 ## Other tools not alway need to be enabled (Code Spell Checker, Color picker…)
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension anseki.vscode-color
