@@ -1,5 +1,4 @@
-# About
-My collection of VSCode extensions for React Typescript Devs.
+# VSCode extensions for React Typescript Devs
 
 ```
 # Install VS Code extensions in CMD (Just copy and paste to your terminal/CMD)
